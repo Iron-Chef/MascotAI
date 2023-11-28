@@ -4,6 +4,7 @@
 *.csv
 *.odt
 *.pdf
+*.jsonl
 
 # Compiled source #
 ###################
